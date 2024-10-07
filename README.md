@@ -1,2 +1,2 @@
 # Amazone-Clone
-This is my first Clone ever using HTML and CSS
+This is my first Clone using HTML and CSS
